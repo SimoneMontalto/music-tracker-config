@@ -1,0 +1,11 @@
+{
+    "discounts": [
+        {
+            "id": "black-friday",
+            "productId": "com.simonemontalto.musictracker.inapp.premium.lifetime",
+            "discountPercentage": 50,
+            "startAvailabilityDate": "2024-11-25",
+            "endAvailabilityDate": "2024-12-01"
+        }
+    ]
+}
